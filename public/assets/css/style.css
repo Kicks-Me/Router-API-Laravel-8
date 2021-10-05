@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Saysettha OT';
+  src: url('http://www.fontsaddict.com/fontface/saysettha-ot.ttf');
+}
+
+body{
+    font-family: 'Saysettha OT', sans-serif;
+}
+
